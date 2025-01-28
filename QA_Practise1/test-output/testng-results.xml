@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-28T10:11:33 IST" name="Suite" finished-at="2025-01-28T10:11:59 IST" duration-ms="25775">
+    <groups>
+    </groups>
+    <test started-at="2025-01-28T10:11:33 IST" name="Test" finished-at="2025-01-28T10:11:59 IST" duration-ms="25775">
+      <class name="ui_elements.Testbuttons">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:ui_elements.Testbuttons@4d1c005e]" started-at="2025-01-28T10:11:33 IST" name="openApp" finished-at="2025-01-28T10:11:41 IST" duration-ms="7835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="buttonDisabled()[pri:0, instance:ui_elements.Testbuttons@4d1c005e]" started-at="2025-01-28T10:11:41 IST" name="buttonDisabled" finished-at="2025-01-28T10:11:44 IST" duration-ms="3086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buttonDisabled -->
+        <test-method is-config="true" signature="openApp()[pri:0, instance:ui_elements.Testbuttons@4d1c005e]" started-at="2025-01-28T10:11:44 IST" name="openApp" finished-at="2025-01-28T10:11:48 IST" duration-ms="4041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="lookslike_a_Button()[pri:0, instance:ui_elements.Testbuttons@4d1c005e]" started-at="2025-01-28T10:11:48 IST" name="lookslike_a_Button" finished-at="2025-01-28T10:11:51 IST" duration-ms="2700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lookslike_a_Button -->
+        <test-method is-config="true" signature="openApp()[pri:0, instance:ui_elements.Testbuttons@4d1c005e]" started-at="2025-01-28T10:11:51 IST" name="openApp" finished-at="2025-01-28T10:11:56 IST" duration-ms="5712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="simpleButtons()[pri:1, instance:ui_elements.Testbuttons@4d1c005e]" started-at="2025-01-28T10:11:56 IST" name="simpleButtons" finished-at="2025-01-28T10:11:59 IST" duration-ms="2196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleButtons -->
+      </class> <!-- ui_elements.Testbuttons -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
